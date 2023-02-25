@@ -35,4 +35,4 @@ Some screenshots from the app.
 
 
 ## Screen recording
-<img src="/screenshots/screen_recording.mp4" alt="screen recording" width="500">
+<img src="/screenshots/screen_recording.gif" alt="screen recording" width="500">
