@@ -2,8 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 Future<ChuckNorrisFact> fetchChuckNorrisFact() async {
-  final response = await Future.delayed(
-      const Duration(seconds: 0), () => http.get(Uri.parse('https://api.chucknorris.io/jokes/random')));
+  final response = await http.get(Uri.parse('https://api.chucknorris.io/jokes/random'));
 
   if (response.statusCode == 200) {
     return ChuckNorrisFact.fromJson(jsonDecode(response.body));

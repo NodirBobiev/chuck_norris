@@ -10,20 +10,23 @@ The application randomly fetches a jokes at a time so to give the best experienc
 There are following features implemented so far:
 
 * A user can swipe left and right between jokes.
-* A joke can be liked by clicking on favorite icon at the top-left corner or by double tapping on the
+* A joke can be liked by clicking on favorite icon at the top-left corner or by double tapping on
+  the
   joke. In the latter case the heart icon pops up for 500 ms similar to Instagram.
 * To reset the like icon you just need to tap on favorite icon on top-left corner.
 * A loading circle is shown when a joke is not completed downloading.
 
-
 ## Android APK
+
 [android apk](chuck-norris.apk)
 
-
 ## Screenshots
+
 Some screenshots from the app.
 
-|<img src="/screenshots/screenshot1.png" alt="Screenshot"> | <img src="/screenshots/screenshot2.png" alt="Screenshot"> | <img src="/screenshots/screenshot3.png" alt="Screenshot"> |
+|<img src="/screenshots/screenshot1.png" alt="Screenshot">
+| <img src="/screenshots/screenshot2.png" alt="Screenshot">
+| <img src="/screenshots/screenshot3.png" alt="Screenshot"> |
 |:---:|:--:|:---:|
 
 ---
@@ -32,7 +35,6 @@ Some screenshots from the app.
 |:------------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------------------------------:|
 | <img src="/screenshots/scrolling.png" alt="Scrolling"> | <img src="/screenshots/liked_joke.png" alt="liked joke"> | <img src="/screenshots/heart_overlay.png" alt="heart popped up"> |
 
-
-
 ## Screen recording
+
 <img src="/screenshots/screen_recording.gif" alt="screen recording" width="500">
