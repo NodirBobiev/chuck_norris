@@ -18,7 +18,7 @@ There are following features implemented so far:
 ## Screenshots
 Some screenshots from the app.
 
-<img src="/screenshots/screenshot1.png" alt="Screenshot" width="200"> | <img src="/screenshots/screenshot2.png" alt="Screenshot" width="200"> | <img src="/screenshots/screenshot3.png" alt="Screenshot" width="200">
+<img src="/screenshots/screenshot1.png" alt="Screenshot"> | <img src="/screenshots/screenshot2.png" alt="Screenshot"> | <img src="/screenshots/screenshot3.png" alt="Screenshot">
 :---:|:--:|:---:
 
 
