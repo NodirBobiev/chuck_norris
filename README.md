@@ -24,9 +24,7 @@ There are following features implemented so far:
 
 Some screenshots from the app.
 
-|<img src="/screenshots/screenshot1.png" alt="Screenshot">
-| <img src="/screenshots/screenshot2.png" alt="Screenshot">
-| <img src="/screenshots/screenshot3.png" alt="Screenshot"> |
+|<img src="/screenshots/screenshot1.png" alt="Screenshot">|<img src="/screenshots/screenshot2.png" alt="Screenshot">|<img src="/screenshots/screenshot3.png" alt="Screenshot">|
 |:---:|:--:|:---:|
 
 ---
