@@ -15,15 +15,20 @@ There are following features implemented so far:
 * To reset the like icon you just need to tap on favorite icon on top-left corner.
 * A loading circle is shown when a joke is not completed downloading.
 
+
+## Android APK
+[android apk](chuck-norris.apk)
+
+
 ## Screenshots
 Some screenshots from the app.
 
 |<img src="/screenshots/screenshot1.png" alt="Screenshot"> | <img src="/screenshots/screenshot2.png" alt="Screenshot"> | <img src="/screenshots/screenshot3.png" alt="Screenshot"> |
 |:---:|:--:|:---:|
 
-
+---
 
 |                    Scrolling jokes                     |                        Liked joke                        |                       heart icon popped up                       |
 |:------------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------------------------------:|
 | <img src="/screenshots/scrolling.png" alt="Scrolling"> | <img src="/screenshots/liked_joke.png" alt="liked joke"> | <img src="/screenshots/heart_overlay.png" alt="heart popped up"> |
-L
+
