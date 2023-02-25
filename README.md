@@ -22,7 +22,8 @@ Some screenshots from the app.
 |:---:|:--:|:---:|
 
 
-|                        Liked joke                        |                    heart icon popped up                     |
-|:--------------------------------------------------------:|:-----------------------------------------------------------:|
-| <img src="/screenshots/liked_joke.png" alt="Screenshot"> | <img src="/screenshots/heart_overlay.png" alt="Screenshot"> |
+
+|                    Scrolling jokes                     |                        Liked joke                        |                       heart icon popped up                       |
+|:------------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------------------------------:|
+| <img src="/screenshots/scrolling.png" alt="Scrolling"> | <img src="/screenshots/liked_joke.png" alt="liked joke"> | <img src="/screenshots/heart_overlay.png" alt="heart popped up"> |
 L
