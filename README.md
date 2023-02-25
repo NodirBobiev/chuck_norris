@@ -32,3 +32,7 @@ Some screenshots from the app.
 |:------------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------------------------------:|
 | <img src="/screenshots/scrolling.png" alt="Scrolling"> | <img src="/screenshots/liked_joke.png" alt="liked joke"> | <img src="/screenshots/heart_overlay.png" alt="heart popped up"> |
 
+
+
+## Screen recording
+<img src="/screenshots/screen_recording.mp4" alt="screen recording" width="500">
