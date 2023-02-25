@@ -17,6 +17,12 @@ There are following features implemented so far:
 
 ## Screenshots
 Some random screenshots from the app:
+<div style="display: flex; flex-direction: rowgit ">
+  <img src="/screenshots/screenshot1.png" alt="Screenshot">
+  <img src="/screenshots/screenshot2.png" alt="Screenshot">
+  <img src="/screenshots/screenshot3.png" alt="Screenshot">
+</div>
+
 ![Random joke](/screenshots/screenshot1.png)
 ![Random joke](/screenshots/screenshot2.png)
 ![Random joke](/screenshots/screenshot3.png)
