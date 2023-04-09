@@ -25,21 +25,17 @@ The following features have been incorporated thus far:
 
 ## Android APK
 
-[android apk](chuck-norris.apk)
+[android apk](chuck-norris_v02.apk)
 
 ## Screenshots
 
-Some screenshots from the app.
-
-|<img src="/screenshots/screenshot1.png" alt="Screenshot">|<img src="/screenshots/screenshot2.png" alt="Screenshot">|<img src="/screenshots/screenshot3.png" alt="Screenshot">|
-|:---:|:--:|:---:|
-
 ---
 
-|                    Scrolling jokes                     |                        Liked joke                        |                       heart icon popped up                       |
-|:------------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------------------------------:|
-| <img src="/screenshots/scrolling.png" alt="Scrolling"> | <img src="/screenshots/liked_joke.png" alt="liked joke"> | <img src="/screenshots/heart_overlay.png" alt="heart popped up"> |
+|                            home page                             |                                empty search                                 |                                empty favourites                                |
+|:----------------------------------------------------------------:|:---------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
+| <img src="/screenshots/version02/home_page.png" alt="home page"> | <img src="/screenshots/version02/empty_search_page.png" alt="empty search"> | <img src="/screenshots/version02/empty_favourites.png" alt="empty favourites"> |
 
-## Screen recording
+|                                searched word                                |                                favourites                                 |
+|:---------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
+| <img src="/screenshots/version02/black_on_search_page.png" alt="home page"> | <img src="/screenshots/version02/favourites_page.png" alt="empty search"> | 
 
-<img src="/screenshots/screen_recording.gif" alt="screen recording" width="500">
