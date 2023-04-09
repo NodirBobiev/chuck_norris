@@ -1,20 +1,27 @@
 # A tinder with Chuck Norris
 
-The app is very simple and was developed for educational purpose as it was an assignment at the
-university.
+The application is quite easy to use and was created for academic purposes since it was an 
+assignment in a course on Flutter.
 
-If you wanna read jokes and laugh then you are in a right place. The main hero in the app is Chuck
-Norris about who people chant legend stories on https://api.chucknorris.io/.
+If you are seeking amusement by reading humorous anecdotes, then you have come to the appropriate 
+location. The central character in this application is Chuck Norris, about whom individuals tell 
+tales of legendary proportions, which are available through the https://api.chucknorris.io/ website.
 
-The application randomly fetches a jokes at a time so to give the best experience to the users.
-There are following features implemented so far:
+The application retrieves a joke at random, thereby providing users with the best experience. 
+The following features have been incorporated thus far:
 
-* A user can swipe left and right between jokes.
-* A joke can be liked by clicking on favorite icon at the top-left corner or by double tapping on
-  the
-  joke. In the latter case the heart icon pops up for 500 ms similar to Instagram.
-* To reset the like icon you just need to tap on favorite icon on top-left corner.
-* A loading circle is shown when a joke is not completed downloading.
+* Users can swipe left or right to navigate between jokes.
+* Users have two options for indicating that they like a joke: they can either click on the 
+  favorite icon located at the top-left corner or double-tap on the joke. In the latter case, 
+  the heart icon appears for a duration of 500 ms, similar to the behavior of Instagram.
+* To undo a like, simply tap on the favorite icon located at the top-left corner. 
+  This will reset the like icon.
+* When a joke is still in the process of downloading, a loading circle will be displayed to 
+  indicate that the operation is ongoing.
+* Liked or favorite jokes are stored locally, enabling users to access them at any time without 
+  an internet connection.
+* Users can perform a search for jokes that contain specific characters provided by the user. 
+
 
 ## Android APK
 

@@ -39,8 +39,8 @@ class _ChuckNorrisPageState extends State<ChuckNorrisPage> {
   }
 
   Widget _buildChuckNorrisFact(chuckNorrisFact) {
-    return SafeArea(
-        child: Stack(children: [
+    liked = isFactLiked(chuckNorrisFact.id);
+    return Stack(children: [
       GestureDetector(
         onDoubleTap: () {
           setState(() {
@@ -49,6 +49,7 @@ class _ChuckNorrisPageState extends State<ChuckNorrisPage> {
               Timer(const Duration(milliseconds: 500), () => setState(() => showHeartOverlay = false));
             }
             liked = true;
+            likeFact(chuckNorrisFact);
           });
         },
         child: Stack(
@@ -81,13 +82,19 @@ class _ChuckNorrisPageState extends State<ChuckNorrisPage> {
         ),
       ),
       Padding(
-          padding: const EdgeInsets.only(left: 20),
+          padding: const EdgeInsets.all(16.0),
           child: IconButton(
               iconSize: 50,
               onPressed: () {
-                setState(() => liked = !liked);
+                setState((){
+                  if(liked){
+                    dislikeFact(chuckNorrisFact.id);
+                  } else{
+                      likeFact(chuckNorrisFact);
+                  }
+                  liked = !liked;});
               },
               icon: liked ? const Icon(Icons.favorite) : const Icon(Icons.favorite_border)))
-    ]));
+    ]);
   }
 }
