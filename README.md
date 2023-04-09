@@ -31,9 +31,9 @@ The following features have been incorporated thus far:
 
 ---
 
-|                            home page                             |                                empty search                                 |                                empty favourites                                |
-|:----------------------------------------------------------------:|:---------------------------------------------------------------------------:|:------------------------------------------------------------------------------:|
-| <img src="/screenshots/version02/home_page.png" alt="home page"> | <img src="/screenshots/version02/empty_search_page.png" alt="empty search"> | <img src="/screenshots/version02/empty_favourites.png" alt="empty favourites"> |
+|                            home page                             |                                empty search                                 |                                  empty favourites                                   |
+|:----------------------------------------------------------------:|:---------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------:|
+| <img src="/screenshots/version02/home_page.png" alt="home page"> | <img src="/screenshots/version02/empty_search_page.png" alt="empty search"> | <img src="/screenshots/version02/empty_favourites_page.png" alt="empty favourites"> |
 
 |                                searched word                                |                                favourites                                 |
 |:---------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
